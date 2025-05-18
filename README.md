@@ -31,6 +31,5 @@ With a dual academic foundation in **Security & Risk Analysis** and **Informatio
 ---
 
 ## Contact
-
-**Nick**  
+  
 [LinkedIn](https://www.linkedin.com/in/nicholasguglielmetti)
