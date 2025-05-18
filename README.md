@@ -32,7 +32,7 @@ With a dual academic foundation in **Security & Risk Analysis** and **Informatio
 
 ## Related Repositories
 
-- [Portfolio Projects](https://github.com/yourusername/portfolio)
+- [Portfolio Projects](https://github.com/ngugs)
 
 ---
 
