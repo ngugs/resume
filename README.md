@@ -30,13 +30,7 @@ With a dual academic foundation in **Security & Risk Analysis** and **Informatio
 
 ---
 
-## Related Repositories
-
-- [Portfolio Projects](https://github.com/ngugs)
-
----
-
 ## Contact
 
 **Nick**  
-[LinkedIn](https://www.linkedin.com/in/nicholasguglielmetti) | [GitHub](https://github.com/ngugs) |
+[LinkedIn](https://www.linkedin.com/in/nicholasguglielmetti)
