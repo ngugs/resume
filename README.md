@@ -18,7 +18,7 @@ With a dual academic foundation in **Security & Risk Analysis** and **Informatio
 ## Résumé Versions
 
 - [View Résumé in Markdown](resume.md)
-- [Download PDF Résumé](./NickGug_Resume.pdf) *(if available)*
+- [Download PDF Résumé](TBD.pdf) *(Coming Soon)*
 
 ---
 
