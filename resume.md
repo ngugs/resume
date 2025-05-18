@@ -35,16 +35,18 @@ Pennsylvania State University — *May 2022*
 ### **Product Owner**  
 **Rocket Mortgage** — Detroit, MI  
 *Jul 2024 – Nov 2024*  
-- Bullet point #1  
-- Bullet point #2  
-- Bullet point #3  
+- Led agile ceremonies including backlog refinement, sprint planning, team standup, and sprint retrospectives. 
+- Prioritized work according to business value. Keep the product delivery timeline on track. 
+- Create features and stories as needed. 
+- Maintain an organized backlog according to priority.
 
 ### **Associate Product Owner**  
 **Rocket Mortgage** — Detroit, MI  
 *May 2022 – Jul 2024*  
-- Bullet point #1  
-- Bullet point #2  
-- Bullet point #3  
+- Led agile ceremonies including backlog refinement, sprint planning, team standup, and sprint retrospectives. 
+- Prioritized work according to business value. Keep the product delivery timeline on track. 
+- Create features and stories as needed. 
+- Maintain an organized backlog according to priority.  
 
 ---
 
