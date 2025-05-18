@@ -39,4 +39,4 @@ With a dual academic foundation in **Security & Risk Analysis** and **Informatio
 ## Contact
 
 **Nick**  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername) | your.email@example.com
+[LinkedIn](https://www.linkedin.com/in/nicholasguglielmetti) | [GitHub](https://github.com/ngugs) |
