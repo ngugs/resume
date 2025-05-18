@@ -58,7 +58,7 @@ Pennsylvania State University — *May 2022*
 
 ## Projects
 
-- **Salesforce Messaging / Omni Channel / ScreenMeet
-- **Dynamic Forms
-- **2GP Referral App
-- **Embedded Orgination & Servicing App
+- Salesforce Messaging / Omni Channel / ScreenMeet
+- Dynamic Forms
+- 2GP Referral App
+- Embedded Orgination & Servicing App
