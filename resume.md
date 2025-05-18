@@ -1,6 +1,6 @@
 # Nick
 **Digital Product Manager**  
-[LinkedIn](https://linkedin.com/in/yourprofile) | your.email@example.com | (123) 456-7890
+[LinkedIn](https://www.linkedin.com/in/nicholasguglielmetti)
 
 ---
 
